@@ -1,0 +1,52 @@
+.V1{
+    position: absolute;
+    height: 600px;
+    width: 200px;
+    top: 5px;
+}
+.V2{
+    position: absolute;
+    height: 600px;
+    width: 200px;
+    top: 5px;
+    left: 205px;
+}
+.V3{
+    position: absolute;
+    height: 600px;
+    width: 200px;
+    top: 5px;
+    left: 400px;
+}
+.H1{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 5;
+}
+.H2{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 5;
+    top: 205px;
+}
+.H3{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 5;
+    top: 400px;
+}
+.D1{
+    position: absolute;
+    width: 710px;
+    height: 600px;
+    left: -50px;
+}
+.D2{
+    position: absolute;
+    width: 710px;
+    height: 600px;
+    left: -50px;
+}
